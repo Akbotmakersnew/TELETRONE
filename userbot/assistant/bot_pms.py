@@ -107,13 +107,13 @@ async def bot_start(event):
             start_msg = f"Hey! 👤{mention},\
                         \nI am {my_mention}'s assistant bot.\
                         \nYou can contact to my master from here.\
-                        \n\nPowered by [Catuserbot](https://t.me/catuserbot)"
+                        \n\nPowered by [TELETRONE](https://t.me/Teletrone_Userbots)"
         buttons = [
             (
-                Button.url("Repo", "https://github.com/TgCatUB/catuserbot"),
+                Button.url("Repo", "https://github.com/Akbotmakersnew/TELETRONE"),
                 Button.url(
                     "Deploy",
-                    "https://github.com/TgCatUB/nekopack",
+                    "https://github.com/Akbotmakersnew/nekopack-1",
                 ),
             )
         ]
